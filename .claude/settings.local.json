@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:navypier.org)",
+      "WebFetch(domain:unsplash.com)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1689271929668-060bfe5f1841?w=1600&q=75&auto=format&fit=crop\" -o ferris-wheel-rooftop.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1765246312031-87e7a216a543?w=1600&q=75&auto=format&fit=crop\" -o chicago-skyline-lake.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1656877789691-b23e9d07076c?w=1600&q=75&auto=format&fit=crop\" -o ferris-wheel-crowd.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1732740762427-74996fd977cc?w=1600&q=75&auto=format&fit=crop\" -o aerial-ferris-wheel.jpg)",
+      "Bash(curl -sL \"https://images.unsplash.com/photo-1636753264557-c6af2a4353f1?w=1600&q=75&auto=format&fit=crop\" -o chicago-sunset-skyline.jpg)"
+    ]
+  }
+}
